@@ -1,6 +1,6 @@
 ### Paloma Patrícia Falchi :cherry_blossom:
 
-🎓 Mestrado em Tecnologia de Processos Químicos e Bioquímicos - UTFPR
+🎓 Mestre em Tecnologia de Processos Químicos e Bioquímicos - UTFPR
 
 🧐 Aspirante a programadora
 
