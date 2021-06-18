@@ -4,7 +4,7 @@
 
 🧐 Aspirante a programadora
 
-🧗‍♀️ Em transição de carreira (Química ➡ T.I.)
+🧗‍♀️ Em transição de carreira (Química ⇢ T.I.)
 
 📚 Aprendendo JavaScript, HTML e CSS (Alura e Udemy)
 
