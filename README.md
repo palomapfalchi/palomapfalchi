@@ -1,15 +1,11 @@
 ### Paloma Patrícia Falchi :cherry_blossom:
 
+🎓 Mestrado em Tecnologia de Processos Químicos e Bioquímicos - UTFPR
 
-**palomapfalchi/palomapfalchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧐 Aspirante a programadora
 
+🧗‍♀️ Em transição de carreira 
 
-Mestrado em Tecnologia de Processos Químicos e Bioquímicos - UTFPR
-
-Aspirante a programadora
-
-Em transição de carreira 
-
-Aprendendo JavaScript, HTML e CSS (Alura e Udemy)
+📚 Aprendendo JavaScript, HTML e CSS (Alura e Udemy)
 
 
