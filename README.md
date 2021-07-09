@@ -6,6 +6,6 @@
 
 🧗‍♀️ Em transição de carreira (Química ⇢ T.I.)
 
-📚 Aprendendo JavaScript, HTML e CSS (DEVMEDIA)
+📚 Aprendendo Java (Udemy)
 
 
