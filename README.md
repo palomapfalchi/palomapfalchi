@@ -2,7 +2,7 @@
 
 🧐 Aspirante a Desenvolvedora
 
-🎓 Mestre em Tecnologia de Processos Químicos e Bioquímicos - UTFPR
+🎓 Mestrado em Tecnologia de Processos Químicos e Bioquímicos - UTFPR
 
 🧗‍♀️ Em transição de carreira (Química ⇢ T.I.)
 
