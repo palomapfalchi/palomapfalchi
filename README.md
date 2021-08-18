@@ -6,6 +6,6 @@
 
 🧗‍♀️ Em transição de carreira (Química ⇢ T.I.)
 
-📚 Aprendendo Java (Digital Innovation One & Udemy)
+📚 Aprendendo Java 
 
 
