@@ -3,7 +3,8 @@
 ##
 
 📚 Desenvolvedora Full Stack em treinamento - Gama Academy
-☕ Dev Java em desenvolvimento - Udemy, DIO
+
+☕ Aprendendo Java - Udemy, DIO
 
 <div align="center">
   <a href="https://github.com/palomapfalchi">
