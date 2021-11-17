@@ -3,9 +3,7 @@
 ##
 
 📚 Desenvolvedora Full Stack em treinamento - Gama Academy
-
-🎓 Mestrado em Tecnologia de Processos Químicos e Bioquímicos - UTFPR
-
+☕ Dev Java em desenvolvimento - Udemy, DIO
 
 <div align="center">
   <a href="https://github.com/palomapfalchi">
