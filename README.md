@@ -6,7 +6,7 @@
 <br>
 ✨ Hobbies: viajar, jogar, ver séries e estudar sobre investimentos
 <br>
-👩‍💻 Linguagens Favorita: Java e JavaScript
+👩‍💻 Linguagens Favoritas: Java e JavaScript
 <br>
 💻 Aprendendo: Java, React e Node
 <div style="display: inline_block"><br>
