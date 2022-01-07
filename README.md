@@ -1,10 +1,15 @@
-
 ### Paloma Patrícia Falchi
 ##
-
+📍 Pato Branco - PR
+<br>
 📚 Desenvolvedora Full Stack em treinamento - Gama Academy
-
-☕ Aprendendo Java - Udemy, DIO
+<br>
+✨ Hobbies: viajar, jogar, ver séries e estudar sobre investimentos
+<br>
+👩‍💻 Linguagem Favorita: Java e JavaScript
+<br>
+💻 Aprendendo: Java, React e Node
+<br>
 
 <div align="center">
   <a href="https://github.com/palomapfalchi">
