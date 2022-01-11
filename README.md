@@ -8,7 +8,7 @@
 <br>
 👩‍💻 Linguagens Favoritas: Java e JavaScript
 <br>
-💻 Aprendendo: Java, React e Node
+💻 Aprendendo: Java e Node
 <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
