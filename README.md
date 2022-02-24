@@ -1,14 +1,13 @@
 ### Paloma Patrícia Falchi
 ##
-👩‍🎓 Desenvolvedora Full Stack em treinamento - Gama Academy
+👩‍🎓 Desenvolvedora Back-End
 <br>
 📍 Pato Branco - PR
 <br>
-✨ Hobbies: viajar, jogar, ver séries e estudar sobre investimentos
+✨ Hobbies: ver vídeos de organização, autoconhecimento e estudar sobre investimentos
 <br>
 👩‍💻 Linguagens Favoritas: Java e JavaScript
 <br>
-💻 Aprendendo: Java e Node
 <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
