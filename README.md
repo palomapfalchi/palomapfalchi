@@ -2,7 +2,7 @@
 ##
 👩‍🎓 Desenvolvedora Back-End
 <br>
-📍 Pato Branco - PR
+📍 Navegantes - SC
 <br>
 ✨ Hobbies: ver vídeos de organização, autoconhecimento e estudar sobre investimentos
 <br>
