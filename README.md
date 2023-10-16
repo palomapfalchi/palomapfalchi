@@ -1,29 +1,26 @@
 ### Paloma Patrícia Falchi
 ##
-👩‍🎓 Desenvolvedora Back-End
+👩‍🎓 Desenvolvedora Full Stack - Foco em Back-end
 <br>
 📍 Navegantes - SC
 <br>
-✨ Hobbies: ver vídeos de organização, autoconhecimento e estudar sobre investimentos
+✨ Hobbies: ver vídeos de organização, desenvolver o autoconhecimento e estudar sobre investimentos
 <br>
-👩‍💻 Linguagens Favoritas: Java e JavaScript
+👩‍💻 Linguagens Favoritas: Python e JavaScript
 <br>
 <div style="display: inline_block"><br>
-    <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+    <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
-    <img align="center" alt="Nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-plain.svg">
-    
-
+    <img align="center" alt="Nodejs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Vue" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+    <img align="center" alt="CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
 </div>
 <br>
 
 <div>
   <a href="https://github.com/palomapfalchi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=palomapfalchi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomapfalchi&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 ##
